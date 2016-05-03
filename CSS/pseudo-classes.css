@@ -1,0 +1,65 @@
+a:active {}
+a:any {}
+a:any-link {}
+a:backdrop {}
+a:checked {}
+a:current {}
+a:default {}
+a:dir() {}
+a:disabled {}
+a:empty {}
+a:enabled {}
+a:first {}
+a:first-child {}
+a:first-of-type {}
+a:focus {}
+a:fullscreen {}
+a:future {}
+a:hover {}
+a:in-range {}
+a:indeterminate {}
+a:invalid {}
+a:lang() {}
+a:last-child {}
+a:last-of-type {}
+a:left {}
+a:link {}
+a:local-link {}
+a:not() {}
+a:nth-child(-n+3)
+a:nth-child(0n+1)
+a:nth-child(1)
+a:nth-child(2n)
+a:nth-child(2n+1)
+a:nth-child(even)
+a:nth-child(odd)
+a:nth-last-child(-n+3)
+a:nth-last-child(0n+1)
+a:nth-last-child(1)
+a:nth-last-child(2n)
+a:nth-last-child(2n+1)
+a:nth-last-child(even)
+a:nth-last-child(odd)
+a:nth-last-of-type(-n+3)
+a:nth-last-of-type(0n+1)
+a:nth-last-of-type(1)
+a:nth-last-of-type(2n)
+a:nth-last-of-type(2n+1)
+a:nth-last-of-type(even)
+a:nth-last-of-type(odd)
+a:nth-of-type {}
+a:nth-of-type() {}
+a:only-child {}
+a:only-of-type {}
+a:optional {}
+a:out-of-range {}
+a:past {}
+a:read-only {}
+a:read-write {}
+a:required {}
+a:right {}
+a:root {}
+a:scope {}
+a:target {}
+a:valid {}
+a:visited {}
